@@ -101,7 +101,7 @@ QA: https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/
 Each of the URLs has this form:
 
 ```
-https://github.com/ucsb-cs156-s22/jpa03-scsampath-docs
-https://github.com/ucsb-cs156-s22/jpa03-scsampath-docs-qa
+https://ORGANIZATION_NAME.github.io/REPO-NAME-docs/
+https://ORGANIZATION_NAME.github.io/REPO-NAME-docs-qa/
 
 ```
