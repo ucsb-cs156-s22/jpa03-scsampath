@@ -1,4 +1,6 @@
 # jpa03-scsampath
+Link to Repo:
+* Repo: <https://github.com/ucsb-cs156-s22/jpa03-scsampath>
 
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-s22/jpa03-scsampath-docs>
